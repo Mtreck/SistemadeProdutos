@@ -19,3 +19,5 @@ Home:
 
 Tela de Cadastro-Produtos
 ![cadastro](https://user-images.githubusercontent.com/105645548/232858091-f8de44bf-4083-4edf-8afc-68dc85cf03e8.png)
+
+OBS: O componente "Cards" não foi finalizado
