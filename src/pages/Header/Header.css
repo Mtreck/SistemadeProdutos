@@ -1,0 +1,95 @@
+
+  .header {
+    background-color: rgba(48, 158, 231, 0.925);
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 80px;
+    padding: 0px 20px;
+  }
+  
+  .username {
+    font-size: 2.0rem;
+    color: rgb(212, 212, 212);
+    text-shadow: 5px 5px 5px black;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+    
+  }
+  
+  .logout-btn {
+    background-color: rgba(74, 27, 245, 0.795);
+    color: rgb(255, 255, 255);
+    padding: 10px 30px;
+    border-radius: 5px;
+    font-size: 1rem;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-decoration: none;
+  }
+  .logout-btn:hover{
+    background-color: rgb(59, 74, 207);
+  }
+  
+  .p-header{
+    font-size: 2rem;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  }
+
+  .h1-user{
+    display: inline-block;
+    font-size: 2.5rem;
+    margin-left: 10px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(253, 120, 11);
+    text-shadow: 4px 4px 7px black;
+    
+  }
+  .link-cad-home{
+    text-decoration: none;
+    color: white;
+    font-size: 20pt;
+    padding-top:1.4%;
+    padding-bottom: 1.4%;
+    padding-left: 1.5%;
+    padding-right: 1.4%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-left: -25%;
+  }
+
+  .link-cad-home:hover{
+    background-color: rgba(92, 43, 226, 0.644);
+    transition: 1.5s;
+  }
+
+  .link-cad-categorias{
+    text-decoration: none;
+    color: white;
+    font-size: 20pt;
+    padding-top:1.4%;
+    padding-bottom: 1.4%;
+    padding-left: 1.5%;
+    padding-right: 1.4%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-left: -25%;
+  }
+  .link-cad-categorias:hover{
+    background-color: rgba(92, 43, 226, 0.644);
+    transition: 1.5s;
+  }
+ 
+  .link-cad-produtos{
+    text-decoration: none;
+    color: white;
+    font-size: 20pt;
+    padding-top:1.4%;
+    padding-bottom: 1.4%;
+    padding-left: 1.5%;
+    padding-right: 1.4%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-left: -25%;
+  }
+
+  .link-cad-produtos:hover{
+    background-color: rgba(92, 43, 226, 0.644);
+    transition: 1.5s;
+  }

@@ -1,0 +1,33 @@
+.div-cards{
+    display: inline-block;
+    margin-left: 15%;
+    margin-top: 2%;
+    border-radius: 10px;
+}
+
+.category-card{
+    width: 200px;
+    height: 200px;
+    margin: 10px;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background-color: rgba(17, 0, 255, 0.342);
+    border-radius: 0px 20px 0px 20px;
+    border: none;
+}
+
+.h3-cards{
+    color: black;
+
+}
+
+.p-cards{
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    margin-top: 70%;
+    font-size: 20pt;
+}

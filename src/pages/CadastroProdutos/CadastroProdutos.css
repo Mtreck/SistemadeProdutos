@@ -1,0 +1,84 @@
+  .cadastro-pro {
+    display: inline-block;
+    width: 50vw;
+    margin-top: -5%;
+    padding: 2%;
+    padding-top: 0%;
+    background-color: rgba(78, 118, 240, 0.788);
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border-radius: 10px;
+  }
+
+  .form h2 {
+    margin-bottom: 20px;
+    font-size: 24px;
+  }
+  
+  .form-group {
+    margin-bottom: 20px;
+  }
+  
+  .form-group label {
+    display: block;
+    margin-bottom: 10px;
+    font-weight: bold;
+  }
+  
+  .form-group input[type="text"],
+  .form-group input[type="number"] {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+  }
+  
+  .form-group select {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    background-color: #fff;
+  }
+  
+  .btn {
+    display: inline-block;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 3px;
+    background-color: #c4882e;
+    color: #fff;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
+  .btn:hover {
+    background-color: #0069d9;
+  }
+
+  .h1-produtos{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    font-size: 25pt;
+    color: white;
+    width: 70%;
+    border-radius: 0px 0px 30px 30px;
+    background-color: rgb(103, 29, 240);    
+    margin-left: 15%;
+    margin-bottom: 5%;
+    padding: 1%;
+  }
+  .categoria-selecao{
+    margin-top: 2%;
+    width: 9vw;
+    height: 1.5vw;
+    font-size: 17px;
+    font-family: Arial, Helvetica, sans-serif
+  }
+  
+
+  
+  

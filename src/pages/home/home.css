@@ -1,0 +1,43 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+table {
+  width: 70%;
+  margin: 0% auto;
+  background-color: #f2f2f2;
+  font-size: 1.2rem;
+}
+
+th, td {
+  padding: 10px;
+  text-align: center;
+}
+
+th {
+  background-color: #ddd;
+  font-weight: bold;
+}
+.search-bar{
+  width: 30%;
+  margin-top: 2%;
+  margin-left: 15%;
+
+}
+.input-pesquisa{
+  color: black;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 15pt;
+  outline: none;
+}
+
+.input-pesquisa::placeholder{
+  color: rgba(0, 0, 0, 0.603);
+}
+.category-cards {
+  display: flex;
+  flex-wrap: wrap;
+}
+

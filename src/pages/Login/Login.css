@@ -1,0 +1,106 @@
+
+.login-container {
+    justify-content: center;
+    align-items: center;
+    height: 50vh;
+  }
+  
+  .h1-login{
+    font-size: 40pt;
+    text-align: center;
+    margin-bottom: 5%;
+    color: white;
+    text-shadow: 5px 5px 5px black;
+  }
+  .fomr-login {
+    font-size: 15pt;
+    padding: 2%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-top: 5%;
+    flex-direction: column;
+    justify-content: center;
+    width: 500px;
+    height: 490px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: rgb(78, 118, 240);
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+  
+  .p-mostrar{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12pt;
+    margin-left: 1%;
+    text-decoration: underline;
+  }
+  .btn-login {
+    font-size: 15pt;
+    width: 100%;
+    display: block;
+    padding: 10px;
+    margin-top: 20px;
+    border-radius: 5px;
+    border: none;
+    background-color: #46b5ff;
+    color: white;
+    font-weight: bold;
+    cursor: pointer;
+  }
+  
+  form button:hover {
+    background-color: #0fb4ca;
+  }
+  
+ 
+
+  .links{
+    display:block;
+    font-size: 15pt;
+    text-decoration: underline black;
+    padding: 5px;
+    border-radius: 10px;
+    width: 40%;
+    margin-top: 2%;
+    margin-left: 30%;
+    text-align: center;
+    color: white;
+    text-decoration: none;
+  }
+  .links:hover{
+    background-color: #0fb4ca;
+  }
+
+  .links-1{
+    font-size: 15pt;
+    padding: 6px;
+    border-radius: 10px;
+    width: 25%;
+    margin-top: 2%;
+    margin-left: 12%;
+    text-align: center;
+    color: white;
+    text-decoration: none;
+  }
+  .links-1:hover{
+    background-color: #0fb4ca;
+  }
+
+  .links-2{
+    display: inline-block;
+    font-size: 15pt;
+    padding: 6px;
+    border-radius: 10px;
+    width: 40%;
+    margin-top: 5%;
+    margin-left: 5%;
+    text-align: center;
+    color: white;
+    text-decoration: none;
+  }
+
+  .links-2:hover{
+    background-color: #0fb4ca;
+  }

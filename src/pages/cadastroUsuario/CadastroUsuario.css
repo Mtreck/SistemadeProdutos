@@ -1,0 +1,62 @@
+.cadastro-form{
+    width: 50%;
+    padding: 2%;
+    padding-top: 0%;
+    background-color: rgb(78, 118, 240);
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    margin-left: 25%;
+    margin-top: 5%;
+    border-radius: 20px;
+  
+  }
+  .h1-cadastroUsuario{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    font-size: 25pt;
+    color: white;
+    width: 70%;
+    border-radius: 0px 0px 30px 30px;
+    background-color: rgb(103, 29, 240);    
+    margin-left: 15%;
+    margin-bottom: 5%;
+    padding: 1%;
+  }
+  
+  input[type='text'],
+  input[type='email'],
+  input[type='password'] {
+    width: 100%;
+    padding: 12px;
+    margin: 6px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+  
+  button {
+    background-color: #4caf50;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  .link-cadastrousuario{
+    font-size: 10pt;
+    font-family: Arial, Helvetica, sans-serif;
+    display: inline-block;
+    margin-left: 2%;
+    margin-top: 5px;
+    background-color: #4caf50;
+    text-decoration: none;
+    color: white;
+    padding: 1.5% 3% 1.5% 3%;
+    border-radius: 3px;
+  }
+
+  .link-cadastrousuario:hover{
+    background-color: #0fb4ca;
+  }

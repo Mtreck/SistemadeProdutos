@@ -1,0 +1,94 @@
+
+.cadastro-categ{
+    width: 30vw;
+    margin-top: 5%;
+    margin-left: 35%;
+    padding: 1%;
+    padding-top: 0%;
+    background-color: rgba(78, 118, 240, 0.788);
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 10px;
+}
+
+.h1-categorias{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    font-size: 25pt;
+    color: white;
+    width: 70%;
+    border-radius: 0px 0px 30px 30px;
+    background-color: rgb(103, 29, 240);    
+    margin-left: 15%;
+    margin-bottom: 5%;
+    padding: 1%;
+}
+p{
+    font-size: 15pt;
+    display: inline-block;
+    
+}
+.inp1{
+    width: 3vw;
+    height: 1vw;
+    margin-left: 3px;
+    margin-bottom: 7%;
+    padding: 2%;
+    display: inline-block;
+    
+
+}
+
+.voltar-btn{
+    background-color: #4caf50;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    margin-left: 5%;
+    text-decoration: none;
+}
+
+.voltar-btn:hover{
+    background-color: #0fb4ca;
+}
+
+.div-categoria{
+    display: inline-block;
+    width: 50%;
+    margin-top: 0%;
+    text-align: center;
+    padding: 2%;
+    margin-left: 25%;
+
+}
+h2{
+    margin-bottom: 10px;
+    font-size: 20pt;
+   
+}
+
+li{
+    list-style: none;
+    font-size: 20pt;
+    display: inline-block;
+    margin-left: 2%;
+    border-radius: 10px;
+    padding: 1%;
+}
+
+
+.excluir-categorias{
+    margin-left: 3px;
+}
+
+.div-categoria{
+    width: 100%;
+    margin-left: 0%;
+}
+.li-categoria{
+    margin-top: 2%;
+    background-color: rgba(103, 29, 240, 0.575); 
+}
+

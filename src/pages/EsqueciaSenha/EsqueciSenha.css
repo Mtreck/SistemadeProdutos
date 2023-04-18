@@ -1,0 +1,53 @@
+.esqueci-senha{
+  width: 50%;
+  padding: 2%;
+  padding-top: 0%;
+  background-color: rgb(78, 118, 240);
+  font-family: Arial, Helvetica, sans-serif;
+  position: absolute;
+  margin-left: 25%;
+  margin-top: 5%;
+}
+.h1-recuperarsenha{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  text-align: center;
+  font-size: 25pt;
+  color: white;
+  width: 70%;
+  border-radius: 0px 0px 30px 30px;
+  background-color: rgb(103, 29, 240);    
+  margin-left: 15%;
+  margin-bottom: 5%;
+  padding: 1%;
+}
+
+.p-esqeuci-senha{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 15pt;
+}
+.btn1-esqeuci-senha{
+  font-family: Arial, Helvetica, sans-serif;
+  margin-left: 2%;
+  background-color: #0fb4ca;
+  font-size: 10pt;
+}
+
+.senha{
+  margin-top: 5%;
+  margin-left: 40%;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color: white;
+}
+.link-esqueciAsenha{
+  font-size: 10pt;
+  font-family: Arial, Helvetica, sans-serif;
+  display: inline-block;
+  margin-left: 2%;
+  margin-top: 5px;
+  background-color: #0fb4ca;
+  text-decoration: none;
+  color: white;
+  padding: 1.5% 3% 1.5% 3%;
+  border-radius: 3px;
+
+}
