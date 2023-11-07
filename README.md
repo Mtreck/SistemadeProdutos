@@ -1,6 +1,6 @@
 # SistemadeProdutos
 
-O projeto desenvolvido em React com CSS3 e HTML5 consiste em um sistema de cadastro de produtos. A aplicação permite que o usuário se cadastre e registre categorias e produtos, que são armazenados em Local Storage.
+O projeto desenvolvido em sala de aula usando React com CSS3 e HTML5 consiste em um sistema de cadastro de produtos. A aplicação permite que o usuário se cadastre e registre categorias e produtos, que são armazenados em Local Storage.
 
 Ao acessar a página inicial, é exibida uma tabela com todos os produtos cadastrados, mostrando informações como nome, categoria e preço. O usuário pode adicionar novos produtos e categorias, além de editar e excluir os existentes.
 
