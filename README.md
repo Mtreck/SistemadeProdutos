@@ -1,23 +1,49 @@
-# SistemadeProdutos
+# ProStock - Sistema de Gestão de Inventário
 
-O projeto desenvolvido em sala de aula usando React com CSS3 e HTML5 consiste em um sistema de cadastro de produtos. A aplicação permite que o usuário se cadastre e registre categorias e produtos, que são armazenados em Local Storage.
+O **ProStock** é uma solução moderna e intuitiva para o gerenciamento de produtos e estoque. Desenvolvido com **React**, o sistema oferece uma interface premium em *Dark Mode*, utilizando conceitos de *Glassmorphism* e uma paleta de cores coerente baseada em tons de Indigo e Slate.
 
-Ao acessar a página inicial, é exibida uma tabela com todos os produtos cadastrados, mostrando informações como nome, categoria e preço. O usuário pode adicionar novos produtos e categorias, além de editar e excluir os existentes.
+## 🚀 Funcionalidades
 
-A interface do sistema foi desenvolvida utilizando CSS3, com uma paleta de cores moderna e agradável. O React foi utilizado para criar componentes reutilizáveis e tornar o código mais organizado e legível.
+- **Controle de Estoque Inteligente**: Monitoramento automático de itens com estoque baixo (inferior a 5 unidades) com alertas visuais imediatos.
+- **Gestão de Produtos**: Cadastro, visualização e exclusão de itens detalhados com nome, descrição, preço, categoria e quantidade.
+- **Categorização Dinâmica**: Sistema de registro de categorias com ícones inteligentes baseados no tipo de produto.
+- **Sistema de Autenticação**: Fluxo completo de Login, Cadastro de Usuário e recuperação de credenciais.
+- **Feedback Premium**: Substituição de alertas nativos do navegador por Modais personalizados e estilizados.
+- **Persistência de Dados**: Uso de `Local Storage` para manter as informações salvas mesmo após fechar o navegador.
 
-O armazenamento em Local Storage permite que os dados do usuário sejam mantidos mesmo após o fechamento do navegador. Isso garante uma experiência mais fluida e prática para o usuário.
+## 🎨 Design
 
-No geral, o projeto é uma solução simples e eficiente para quem precisa gerenciar produtos de forma prática e rápida.
+A interface foi projetada para ser profissional e limpa:
+- **Tema Dark Moderno**: Utiliza variáveis CSS para consistência global.
+- **Glassmorphism**: Efeitos de transparência e desfoque em cabeçalhos e cards.
+- **Responsividade**: Layout adaptável para diferentes tamanhos de tela.
 
+## 🛠️ Tecnologias Utilizadas
 
-Tela de Login:
-![Login](https://user-images.githubusercontent.com/105645548/232858038-2f4429e4-bedc-4a0e-9927-81736214d766.png)
+- [React](https://reactjs.org/)
+- [React Router DOM](https://reactrouter.com/)
+- [Context API](https://reactjs.org/docs/context.html) (Gerenciamento de Estado)
+- [CSS3 Custom Properties](https://developer.mozilla.org/en-US/docs/Web/CSS/--*) (Design System)
+- [Material Icons Round](https://fonts.google.com/icons)
 
-Home:
-![Home](https://user-images.githubusercontent.com/105645548/232858078-43cbcdba-ff7a-472d-98aa-0d7d07a8e5a9.png)
+## 📦 Como rodar o projeto
 
-Tela de Cadastro-Produtos
-![cadastro](https://user-images.githubusercontent.com/105645548/232858091-f8de44bf-4083-4edf-8afc-68dc85cf03e8.png)
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/Mtreck/SistemadeProdutos.git
+   ```
+2. Entre na pasta do projeto:
+   ```bash
+   cd SistemadeProdutos
+   ```
+3. Instale as dependências:
+   ```bash
+   npm install
+   ```
+4. Inicie a aplicação:
+   ```bash
+   npm start
+   ```
 
-OBS: O componente "Cards" não foi finalizado
+---
+Desenvolvido por **Antigravity AI**.
